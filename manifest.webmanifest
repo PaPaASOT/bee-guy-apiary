@@ -1,0 +1,24 @@
+{
+  "name": "Apiary Manager, by The Bee Guy",
+  "short_name": "Apiary Manager",
+  "description": "Hive inspections by voice, photos, queens, harvests and treatments for beekeepers.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1A1208",
+  "theme_color": "#FDF6E8",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
