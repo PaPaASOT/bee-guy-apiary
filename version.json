@@ -1,13 +1,12 @@
 {
   "name": "Apiary Manager",
-  "version": "2026.09.30.2012",
+  "version": "2026.10.01.0403",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "The app now tells you when there's a new version, and asks if you'd like to update now.",
-    "Sugar syrup calculator: 1:1, 2:1 or your own ratio, for jars, gallons, buckets and drums.",
-    "Treatment schedules, such as oxalic acid every 3 days for 8 treatments, that go on your phone's calendar.",
-    "Candy board recipes, how to use them, and reminders to put them on and check them.",
-    "Seasonal reminders: robbing screens, mouse guards, queen excluders, and ordering bees, queens and equipment."
+    "Hives can have a queen excluder, and the hive drawing is to scale, with the box you're inspecting blinking.",
+    "Replace queen, with the queen's history and follow-up reminders, and a new Queen Needs Replacing status.",
+    "Saying \"I removed this box\" or \"I'm taking off this box\" counts as done today, and the drawing changes right away.",
+    "The Inspections tab asks you to choose a hive first."
   ]
 }
