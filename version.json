@@ -1,11 +1,13 @@
 {
   "name": "HiveMind",
-  "version": "2026.10.01.1644",
+  "version": "2026.10.01.1828",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "Apiary Manager is now called HiveMind, with a new icon.",
-    "On an apiary walk, say \"Edit hive 4\" to reopen a hive you've saved today and change it. You can also tap a hive marked Inspected.",
-    "On the Home screen, Frost & seasons is folded away: tap it to show or hide."
+    "Voice control: turn it on from the Home screen to run the app by voice in gloves. Say \"help\" to hear what you can say.",
+    "Ask \"How old is this queen?\" or \"What color is she?\". Marking her a colour tells you the year it stands for. Each apiary has a Queens' ages list.",
+    "During an inspection: \"inspect the bottom brood box\", \"what box are we on?\", \"what do we have so far, box by box\", \"scratch that\".",
+    "Boxes are now numbered from the bottom up (brood box 1 is the bottom one).",
+    "Mite counts keep how you counted (wash, sugar roll, sticky board), and many readings are more careful: possible diseases, queen cells, eggs, small hive beetles."
   ]
 }
