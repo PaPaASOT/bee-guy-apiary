@@ -1,5 +1,5 @@
-/* Keeps a copy of Apiary Manager on the phone so it opens with no signal. */
-const CACHE = "hivemind-00a8b097a2f6";
+/* Keeps a copy of HiveMind on the phone so it opens with no signal. */
+const CACHE = "hivemind-6b217bcf9528";
 const FILES = ["./", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png", "./apple-touch-icon.png"];
 
 self.addEventListener("install", (e) => {

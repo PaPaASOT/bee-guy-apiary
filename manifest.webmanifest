@@ -1,6 +1,6 @@
 {
-  "name": "Apiary Manager, by The Bee Guy",
-  "short_name": "Apiary Manager",
+  "name": "HiveMind, by The Bee Guy",
+  "short_name": "HiveMind",
   "description": "Hive inspections by voice, photos, queens, harvests and treatments for beekeepers.",
   "start_url": "./",
   "scope": "./",

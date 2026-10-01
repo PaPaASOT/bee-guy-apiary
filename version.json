@@ -1,9 +1,11 @@
 {
-  "name": "Apiary Manager",
-  "version": "2026.10.01.0411",
+  "name": "HiveMind",
+  "version": "2026.10.01.1644",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "The Inspections tab says \"Choose a Hive in the dropdown\", and dropdowns have a bold arrow on the right."
+    "Apiary Manager is now called HiveMind, with a new icon.",
+    "On an apiary walk, say \"Edit hive 4\" to reopen a hive you've saved today and change it. You can also tap a hive marked Inspected.",
+    "On the Home screen, Frost & seasons is folded away: tap it to show or hide."
   ]
 }
