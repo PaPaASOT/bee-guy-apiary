@@ -1,5 +1,5 @@
 /* Keeps a copy of Apiary Manager on the phone so it opens with no signal. */
-const CACHE = "hivemind-be95731ccce6";
+const CACHE = "hivemind-9792eb0a49c5";
 const FILES = ["./", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png", "./apple-touch-icon.png"];
 
 self.addEventListener("install", (e) => {
@@ -14,7 +14,8 @@ self.addEventListener("activate", (e) => {
 // the background when there's a signal.
 self.addEventListener("fetch", (e) => {
   const req = e.request;
-  if (req.method !== "GET" || new URL(req.url).origin !== location.origin) { return; }
+  // version.json (the update check) always comes fresh from the web.
+  if (req.method !== "GET" || new URL(req.url).origin !== location.origin || new URL(req.url).pathname.endsWith("/version.json")) { return; }
   const key = req.mode === "navigate" ? "./" : req;
   e.respondWith(caches.open(CACHE).then((cache) => cache.match(key, { ignoreSearch: true }).then((hit) => {
     const fresh = fetch(req).then((res) => {
