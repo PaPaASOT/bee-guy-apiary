@@ -1,9 +1,13 @@
 {
   "name": "HiveMind",
-  "version": "2026.10.02.0147",
+  "version": "2026.10.04.1904",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "On the website, hands-free waits for you to finish talking instead of cutting you off at the first pause."
+    "Speech-to-text works with no signal on phones that can, and hears bee words and your hive names right the first time.",
+    "What you say in an inspection is recorded with it: play it back, and tap words the phone wasn't sure of (underlined) to hear them again.",
+    "A Bluetooth earpiece is used as the microphone automatically. A level bar shows you're being heard, and it warns when wind drowns you out.",
+    "A buzz when it starts and stops listening. Settings › Listening has the switches.",
+    "Saying \"no honey\" no longer offers to log a harvest of 0."
   ]
 }
