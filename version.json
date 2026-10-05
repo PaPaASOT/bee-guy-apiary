@@ -1,12 +1,13 @@
 {
   "name": "HiveMind",
-  "version": "2026.10.04.2138",
+  "version": "2026.10.05.0016",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "Set how often you inspect (Settings › Reminders › Inspect every __ weeks), and a different number for any hive.",
-    "Replace queen asks what went in and how: candy cage, released by hand, push-in cage, no cage, on a frame, or your own way. Each sets its own checks, and you can change any day.",
-    "Say \"put in a new queen with a push-in cage\" in an inspection and it offers to set her follow-ups.",
-    "Follow-ups set themselves: swarm cells, queenless, a split, a super added, possible disease, a robbing screen. Each hive shows what is coming up, and reminders have Later (+2 days)."
+    "Hands-free hears your answers far more reliably, keeps a Bluetooth headset at one steady volume, and no longer cuts off first words.",
+    "\"Speak now\" is two rising notes and \"got it\" the same notes falling. Google's own beeps are silenced while it listens.",
+    "In hands-free, before the next box it asks what you didn't say, including the queen in every brood box until you've seen her.",
+    "At the read-back: \"change paddle to brood pattern\", or \"I didn't say the queen was marked\" to take something out.",
+    "Never marked queenless unless you say so. Many more misheard bee words fixed (Beezer, his eye, brew paddle, larvae). Darker grey text."
   ]
 }
