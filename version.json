@@ -1,12 +1,12 @@
 {
   "name": "HiveMind",
-  "version": "2026.10.04.2112",
+  "version": "2026.10.04.2138",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "Beeps you can hear through a bee suit (speaker or earpiece) as well as the buzz: listening, your turn, got it, stopped.",
-    "Dictated notes get full stops and capitals.",
-    "Hands-free marks each box in the recording, so you can jump straight to it, and a pause isn't recorded.",
-    "Settings › Listening › Your English: choose US, UK, Australian and other English."
+    "Set how often you inspect (Settings › Reminders › Inspect every __ weeks), and a different number for any hive.",
+    "Replace queen asks what went in and how: candy cage, released by hand, push-in cage, no cage, on a frame, or your own way. Each sets its own checks, and you can change any day.",
+    "Say \"put in a new queen with a push-in cage\" in an inspection and it offers to set her follow-ups.",
+    "Follow-ups set themselves: swarm cells, queenless, a split, a super added, possible disease, a robbing screen. Each hive shows what is coming up, and reminders have Later (+2 days)."
   ]
 }
