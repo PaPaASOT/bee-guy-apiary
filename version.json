@@ -1,10 +1,11 @@
 {
   "name": "HiveMind",
-  "version": "2026.10.06.1336",
+  "version": "2026.10.06.1356",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "Coming up is always on the Home screen, and every hive has its \"time for an inspection\" reminder.",
-    "A reminder you can't act on: Inspect now, Later (tomorrow, 3 days, next week or a date you pick), or Skip this time."
+    "By voice (turn on Voice control): \"Add a hive\" builds a new hive, asking its name, apiary, boxes, frames and queen.",
+    "\"Combine hive 3 into hive 5\": the kept hive gets the boxes, and the other hive's records move to it before it's removed.",
+    "\"Split hive 4\": adds the new hive, updates both hives' boxes, and reminds you to check the one without a queen."
   ]
 }
