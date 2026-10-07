@@ -1,10 +1,9 @@
 {
   "name": "HiveMind",
-  "version": "2026.10.06.2058",
+  "version": "2026.10.06.2102",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "On the Inspect tab, choose a hive or \"The entire apiary\" before + Log. It no longer starts an inspection on the first hive by itself.",
-    "The entire apiary starts the apiary walk, hive by hive."
+    "Updating shows one box at a time: once Android asks \"Update this app?\", HiveMind's own box closes."
   ]
 }
