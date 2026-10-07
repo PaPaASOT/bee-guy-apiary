@@ -1,11 +1,12 @@
 {
   "name": "HiveMind",
-  "version": "2026.10.06.2123",
+  "version": "2026.10.06.2130",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
     "Your version number is on the Home screen, and at the top of Settings with \"Copy for tech support\".",
     "Or ask by voice: \"What version is this?\"",
-    "Voice not understanding you? Near the top of Settings, turn on the voice log and send it to tech support in one tap."
+    "Voice not understanding you? Near the top of Settings, turn on the voice log and send it to tech support in one tap.",
+    "When sending, say what went wrong in your own words, and include today's recordings if you like."
   ]
 }
