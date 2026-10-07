@@ -1,11 +1,11 @@
 {
   "name": "HiveMind",
-  "version": "2026.10.06.1356",
+  "version": "2026.10.06.2022",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "By voice (turn on Voice control): \"Add a hive\" builds a new hive, asking its name, apiary, boxes, frames and queen.",
-    "\"Combine hive 3 into hive 5\": the kept hive gets the boxes, and the other hive's records move to it before it's removed.",
-    "\"Split hive 4\": adds the new hive, updates both hives' boxes, and reminds you to check the one without a queen."
+    "Brood, Bee Population, Honey Stores and Pollen Stores are now None, Low, Medium or High: tap them, or say it (\"a ton of brood\", \"plenty of honey\", \"not much pollen\").",
+    "Older inspections keep their own words.",
+    "New, optional: the hive's weight. Type it or say \"the hive weighs 92 pounds\"; the hive page shows the change since last time."
   ]
 }
