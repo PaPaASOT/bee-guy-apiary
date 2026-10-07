@@ -1,12 +1,12 @@
 {
   "name": "HiveMind",
-  "version": "2026.10.07.1922",
+  "version": "2026.10.07.1951",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "Inspections now record drones and drone brood, each with its own box. Hands-free asks about them too.",
-    "Apiaries in more than one area? Pick one with the 📍 buttons at the top of the Bloom tab to see its bloom calendar.",
-    "Phone keeps mishearing a word? Settings › My words › Suggest sends it to the HiveMind team by email.",
-    "An apiary only needs a zip code (no street address), so a field or orchard works fine."
+    "New 🖨️ Club printouts (on Home): mite check card, treatment chart, paper inspection sheet, queens, feeding, pests, swarm flyer and sign-in sheet.",
+    "Meeting slideshow: tick the slides you want and get one PowerPoint for the club meeting.",
+    "Share my month's numbers with your club leader (counts only, never your hives' names or places); the leader combines everyone's.",
+    "Club admins can keep the swarm team and text them from the app. Tick boxes that were invisible now show."
   ]
 }
