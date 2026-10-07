@@ -1,9 +1,12 @@
 {
   "name": "HiveMind",
-  "version": "2026.10.07.0851",
+  "version": "2026.10.07.1109",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "Updating is simpler: after Update now, the box just says it's getting the new version, then Android asks."
+    "New 🌸 Bloom tab: the Bee Guy bloom & nectar flow calendar is now part of HiveMind.",
+    "What's blooming now, the nectar flows, pollen colors, monthly hive jobs, spraying and contacts, and handouts for the club.",
+    "Log the day you first see each plant open; bloom reminders come every year, and big bloom events show under Coming up.",
+    "Used the Bloom Calendar app? Bloom › My log › Import a Bloom Calendar backup brings your dates and contacts over."
   ]
 }
