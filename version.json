@@ -1,9 +1,10 @@
 {
   "name": "HiveMind",
-  "version": "2026.10.09.0053",
+  "version": "2026.10.09.0226",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "Club printouts and slides now name your state's apiary contact anywhere in the US, and your county's inspector in North Carolina, Pennsylvania and Florida."
+    "New 🔴 Just Record: saves your voice like a voice memo. Works on any phone, even older ones, and with no signal. Play it back later and fill in the form.",
+    "Each way of talking in an inspection now has a short line saying what it does."
   ]
 }
