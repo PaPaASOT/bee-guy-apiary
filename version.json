@@ -1,12 +1,12 @@
 {
   "name": "HiveMind",
-  "version": "2026.10.09.1616",
+  "version": "2026.10.09.1657",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "Hands-free: saying just \"done\" with a box still below now asks whether you're done with the whole hive or moving to the next box.",
-    "It understands \"high for honey and pollen\", and \"hi\" when the phone mishears \"high\".",
-    "Signing in on the website now replaces the example hives with your own records.",
-    "New 🔍 Inspect now button on each hive in the Hives tab."
+    "Club printouts and slides: example photos of pests and diseases, and of what people mistake for honey bees.",
+    "The swarm flyer asks whether the bees are inside something, and explains cutouts.",
+    "Several eggs in a cell on its own is now a note, not laying workers: a new queen often does it at first.",
+    "Treatment chart: always follow the treatment's own instructions. Sign-in sheet is double-sided."
   ]
 }
