@@ -1,10 +1,11 @@
 {
   "name": "HiveMind",
-  "version": "2026.10.09.0226",
+  "version": "2026.10.09.1610",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "New 🔴 Just Record: saves your voice like a voice memo. Works on any phone, even older ones, and with no signal. Play it back later and fill in the form.",
-    "Each way of talking in an inspection now has a short line saying what it does."
+    "Hands-free: saying just \"done\" with a box still below now asks whether you're done with the whole hive or moving to the next box.",
+    "It understands \"high for honey and pollen\", and \"hi\" when the phone mishears \"high\".",
+    "Signing in on the website now replaces the example hives with your own records."
   ]
 }
