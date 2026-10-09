@@ -1,11 +1,9 @@
 {
   "name": "HiveMind",
-  "version": "2026.10.08.2337",
+  "version": "2026.10.09.0053",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "New in Club printouts: 📚 Beekeeping 101, a 12-lesson course for meetings, timed to your area's bloom calendar (a draft until The Bee Guy checks it).",
-    "Add the zip code where your club meets: the slides then fit your county, this year's spring and your own bloom records.",
-    "North Carolina clubs: slides and the pests sheet name your county's apiary inspector and extension office."
+    "Club printouts and slides now name your state's apiary contact anywhere in the US, and your county's inspector in North Carolina, Pennsylvania and Florida."
   ]
 }
