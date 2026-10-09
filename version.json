@@ -1,13 +1,11 @@
 {
   "name": "HiveMind",
-  "version": "2026.10.08.2223",
+  "version": "2026.10.08.2337",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "Hands-free hears you better: \"no queen in this box\" isn't a queenless hive, and \"very calm\", \"high\" and \"brood\" come through right.",
-    "Bloom: set \"This spring is running\" to Automatic and it follows this year's USA-NPN Spring Index at your apiary.",
-    "Bloom: know your area's bees? Tap \"Help check this calendar\" on a draft calendar and send your corrections.",
-    "Where it rarely freezes (Florida, the Southwest, coastal California), seasonal jobs now follow your bloom calendar.",
-    "On a computer, the website uses the whole screen: tabs on the left, Home in two columns."
+    "New in Club printouts: 📚 Beekeeping 101, a 12-lesson course for meetings, timed to your area's bloom calendar (a draft until The Bee Guy checks it).",
+    "Add the zip code where your club meets: the slides then fit your county, this year's spring and your own bloom records.",
+    "North Carolina clubs: slides and the pests sheet name your county's apiary inspector and extension office."
   ]
 }
