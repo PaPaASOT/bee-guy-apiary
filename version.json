@@ -1,12 +1,9 @@
 {
   "name": "HiveMind",
-  "version": "2026.10.09.1657",
+  "version": "2026.10.09.1710",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "Club printouts and slides: example photos of pests and diseases, and of what people mistake for honey bees.",
-    "The swarm flyer asks whether the bees are inside something, and explains cutouts.",
-    "Several eggs in a cell on its own is now a note, not laying workers: a new queen often does it at first.",
-    "Treatment chart: always follow the treatment's own instructions. Sign-in sheet is double-sided."
+    "Bloom tab: every plant has a 📷 Photos in flower link to real photos of it in bloom (online)."
   ]
 }
