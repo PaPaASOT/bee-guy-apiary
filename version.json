@@ -1,12 +1,9 @@
 {
   "name": "HiveMind",
-  "version": "2026.10.10.1434",
+  "version": "2026.10.10.1655",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "Hands-free: say \"let's start over\" to redo a hive from the top, or \"cancel\" to throw its inspection away. It always asks first, and asks whether to keep your photos.",
-    "On a box it asks whether you mean that box or the whole hive. Say \"start this box over\" to redo just one box.",
-    "More fixes by voice: \"this is hive 5, not hive 3\", \"put that box back\", \"this was yesterday afternoon\", \"delete that photo\", \"undo that save\", and \"undo that\" or \"that was hive 5\" after logging a treatment, feeding or harvest.",
-    "On the website, Settings says \"Check this device\", and the yard location wording is clearer."
+    "New: Smoke Used, right under Temperament. Tap None, Light, Medium or Heavy, or just say it (\"a puff or two\", \"had to smoke them hard\"). Hands-free asks if you didn't say."
   ]
 }
