@@ -1,10 +1,10 @@
 {
   "name": "HiveMind",
-  "version": "2026.10.10.1351",
+  "version": "2026.10.10.1422",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "K-wing is on the disease list, recorded as what you saw (its cause isn't fully known).",
-    "Every disease the app knows now reaches the research file by name."
+    "Hands-free: say \"let's start over\" to redo a hive from the top, or \"cancel\" to throw its inspection away. It always asks first, and asks whether to keep your photos.",
+    "On the website, Settings says \"Check this device\", and the yard location wording is clearer."
   ]
 }
