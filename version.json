@@ -1,10 +1,9 @@
 {
   "name": "HiveMind",
-  "version": "2026.10.10.1843",
+  "version": "2026.10.10.1852",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "HiveMind now talks in the Bee Buddy Voice: The Bee Guy's own voice, built into the app, so it works with no signal. Your own notes read back are still in the phone's voice.",
-    "Turn it on or off, and hear it, in Settings › Hands-free voice."
+    "Bee Buddy Voice fixes: full volume through a Bluetooth earpiece with voice control on, \"help\" all in Buddy's voice, and never two voices at once."
   ]
 }
