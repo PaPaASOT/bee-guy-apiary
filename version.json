@@ -1,12 +1,10 @@
 {
   "name": "HiveMind",
-  "version": "2026.10.10.0318",
+  "version": "2026.10.10.1059",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "Your yards' addresses and map positions are now locked before they go online, so no one else can ever see them.",
-    "Signed in on two devices? One will ask you to pair them (photograph a code) or tap Use my location at each yard.",
-    "Send directions: text or email a map pin of your yard to someone visiting.",
-    "For research, each apiary can share just its zip code area (the default) or its exact location."
+    "K-wing is on the disease list, recorded as what you saw (its cause isn't fully known).",
+    "Every disease the app knows now reaches the research file by name."
   ]
 }
