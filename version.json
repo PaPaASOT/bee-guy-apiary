@@ -1,9 +1,9 @@
 {
   "name": "HiveMind",
-  "version": "2026.10.10.1852",
+  "version": "2026.10.10.1922",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "Bee Buddy Voice fixes: full volume through a Bluetooth earpiece with voice control on, \"help\" all in Buddy's voice, and never two voices at once."
+    "Buddy now says numbers in full: \"one hundred and forty-four\", never \"one forty-four\"."
   ]
 }
