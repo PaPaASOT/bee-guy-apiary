@@ -1,9 +1,9 @@
 {
   "name": "HiveMind",
-  "version": "2026.10.10.1922",
+  "version": "2026.10.10.2036",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "Buddy now says numbers in full: \"one hundred and forty-four\", never \"one forty-four\"."
+    "Buddy now says every number from 100 to 999 the same way, \"one hundred and forty-four\", built from clips The Bee Guy checked."
   ]
 }
