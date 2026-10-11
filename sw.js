@@ -1,5 +1,5 @@
 /* Keeps a copy of HiveMind on the phone so it opens with no signal. */
-const CACHE = "hivemind-7750264e4541";
+const CACHE = "hivemind-39cb666629ff";
 const FILES = ["./", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png", "./apple-touch-icon.png"];
 
 self.addEventListener("install", (e) => {
