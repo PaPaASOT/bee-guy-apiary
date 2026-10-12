@@ -1,15 +1,12 @@
 {
   "name": "HiveMind",
-  "version": "2026.10.12.1345",
+  "version": "2026.10.12.1415",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "Inspection form: big section headings, and a bar at the top that jumps to any section.",
-    "Anything needed to save (mite count, queen status) now pops up to answer, then it saves and goes on.",
-    "When your notes say a colony is dead, HiveMind asks right away (and again at Save), with a red bar at the top until you decide.",
-    "Typing or pasting \"the colony is dead\" into either notes box now brings up the dead-out question right away; head-first bees with no honey suggests Starvation.",
-    "Dead-outs: new \"What did you see?\" taps (dead bees, head-first bees, honey and brood left, mite droppings).",
-    "New dead-out cause: Weak going into winter. \"Weather\" now reads Weather / poor wintering conditions.",
-    "The research file now lines up with the national US Beekeeping Survey (Auburn / AIA)."
+    "Update now works again: the box shows the download filling up, with a percentage.",
+    "You can leave HiveMind while it downloads; the box stays, and Android asks to update as soon as you're back.",
+    "If the download stops (no signal), Try again is right there.",
+    "Inspecting a hive that's already recorded as a dead-out now says so at the top."
   ]
 }
