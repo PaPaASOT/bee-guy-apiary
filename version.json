@@ -1,13 +1,11 @@
 {
   "name": "HiveMind",
-  "version": "2026.10.11.0113",
+  "version": "2026.10.12.1022",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "Inspections now record pests inside the hive with a level: none seen, low, medium or high.",
-    "New: threats outside the hive, including the Yellow-Legged Hornet (now in NC), bears, skunks, raccoons and mice.",
-    "Hands-free asks about both, in Buddy's voice.",
-    "New pest & disease guide with photos (Care tab, and on the inspection form).",
-    "The club pest sheet and slides now show the Yellow-Legged Hornet."
+    "Dead-outs: new \"What did you see?\" taps (dead bees, head-first bees, honey and brood left, mite droppings).",
+    "New dead-out cause: Weak going into winter. \"Weather\" now reads Weather / poor wintering conditions.",
+    "The research file now lines up with the national US Beekeeping Survey (Auburn / AIA)."
   ]
 }
