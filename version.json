@@ -1,6 +1,6 @@
 {
   "name": "HiveMind",
-  "version": "2026.10.12.2036",
+  "version": "2026.10.12.2107",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
@@ -11,6 +11,7 @@
     "Inspection sections now start with a solid gold heading band, easy to spot while scrolling.",
     "The update box always fits on the screen now, with its buttons in sight.",
     "Settings › 🧪 Test yards: six made-up apiaries, 29 hives, covering every feature. Add them beside your hives, or erase everything and add them in one tap. They now stay put when you switch apps.",
+    "Mites: a second choice, \"Not checked: not enough bees to check\" (a dead-out or a tiny colony), kept apart from \"Not checked today\". Say it too.",
     "Coming up on Home is grouped by apiary.",
     "The inspection's section buttons show a › arrow when there are more to the right (tap it to see them).",
     "The inspection shows the apiary beside the hive (\"Hive 3 · Creek Yard\"), and lists say which apiary when two hives share a name.",
