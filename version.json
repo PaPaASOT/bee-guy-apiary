@@ -1,9 +1,10 @@
 {
   "name": "HiveMind",
-  "version": "2026.10.12.2149",
+  "version": "2026.10.12.2209",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
+    "Help & FAQ: tapping a question further down no longer slides it up out of sight. The question stays in view with its answer under it.",
     "❓ Help & FAQ, beside the version (on Home and in Settings): answers to common questions about updating, backups, voice, inspections and syncing. Search it, tap a question to open the answer. Works offline. Also a printable PDF of the answers for the club.",
     "📜 What's new, right beside the version number (on Home and in Settings): every update's notes, newest first, to look back at after the update box is gone. Works offline.",
     "Update now works again: the box shows the download filling up, with a percentage.",
