@@ -1,14 +1,10 @@
 {
   "name": "HiveMind",
-  "version": "2026.10.12.2147",
+  "version": "2026.10.12.2149",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "<<<<<<< HEAD",
-    "❓ Help & FAQ, beside the version (on Home and in Settings): answers to common questions about updating, backups, voice, inspections and syncing. Search it, tap a question to open the answer. Works offline.",
-    "=======",
-    "Settings › ❓ Help: answers to common problems and questions, with a search box. Also a PDF for the club.",
-    ">>>>>>> 2b8ad5b (Help: troubleshooting and common questions in Settings › ❓ Help (search, tap to open) and as a PDF (npm run help), from one text in src/help.js)",
+    "❓ Help & FAQ, beside the version (on Home and in Settings): answers to common questions about updating, backups, voice, inspections and syncing. Search it, tap a question to open the answer. Works offline. Also a printable PDF of the answers for the club.",
     "📜 What's new, right beside the version number (on Home and in Settings): every update's notes, newest first, to look back at after the update box is gone. Works offline.",
     "Update now works again: the box shows the download filling up, with a percentage.",
     "You can leave HiveMind while it downloads; the box stays, and Android asks to update as soon as you're back.",
