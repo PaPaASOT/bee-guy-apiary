@@ -1,24 +1,19 @@
 {
   "name": "HiveMind",
-  "version": "2026.10.12.2209",
+  "version": "2026.10.13.2024",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "Help & FAQ: tapping a question further down no longer slides it up out of sight. The question stays in view with its answer under it.",
-    "❓ Help & FAQ, beside the version (on Home and in Settings): answers to common questions about updating, backups, voice, inspections and syncing. Search it, tap a question to open the answer. Works offline. Also a printable PDF of the answers for the club.",
-    "📜 What's new, right beside the version number (on Home and in Settings): every update's notes, newest first, to look back at after the update box is gone. Works offline.",
-    "Update now works again: the box shows the download filling up, with a percentage.",
-    "You can leave HiveMind while it downloads; the box stays, and Android asks to update as soon as you're back.",
-    "If the download stops (no signal), Try again is right there.",
-    "Inspecting a hive that's already recorded as a dead-out now says so at the top.",
-    "Inspection sections now start with a solid gold heading band, easy to spot while scrolling.",
-    "The update box always fits on the screen now, with its buttons in sight.",
-    "Settings › 🧪 Test yards: six made-up apiaries, 29 hives, covering every feature. Add them beside your hives, or erase everything and add them in one tap. They now stay put when you switch apps.",
-    "Mites: a second choice, \"Not checked: not enough bees to check\" (a dead-out or a tiny colony), kept apart from \"Not checked today\". Say it too.",
-    "Coming up on Home is grouped by apiary.",
-    "The inspection's section buttons show a › arrow when there are more to the right (tap it to see them).",
-    "The inspection shows the apiary beside the hive (\"Hive 3 · Creek Yard\"), and lists say which apiary when two hives share a name.",
-    "🔍 Inspect right from where a hive is shown: Home's hive list, alerts and reminders, the apiary page, and the top of each hive's page.",
-    "One number per apiary: a new hive can't share a living hive's number. Reuse a dead-out's number and the old one is renamed, e.g. \"Hive 3 (dead-out Oct 2026)\"."
+    "Save with something missing now jumps to that field, outlines it in red and says what's needed right under it.",
+    "Words typed in the notes box are always saved, even if you don't tap Fill Fields.",
+    "The \"Is this hive dead?\" question waits until you've finished typing.",
+    "Hive and apiary cards open when you tap them, and pages open at the top.",
+    "The hive and apiary stay at the top of an inspection while you scroll, with a close button beside them.",
+    "Inspection cards show everything saved: temperament, eggs, larvae, supers, honey taken, box changes and how mites were counted. Notes are labeled.",
+    "A hive's page shows its hive type, bottom board, its own inspection schedule, and the splits, swarms and combines it's part of.",
+    "Queen tags are easy to read in every mark colour.",
+    "Long names and long pest notes no longer push the screen sideways.",
+    "Add Hive asks which apiary instead of guessing; the Hives list's button uses the apiary you're looking at.",
+    "\"No money left\" is read as honey, and \"white specs\" as mite droppings."
   ]
 }
