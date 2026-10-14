@@ -1,11 +1,12 @@
 {
   "name": "Bee Yard Wingman",
-  "version": "2026.10.14.1535",
+  "version": "2026.10.14.1952",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "A new Bee Yard Wingman logo.",
-    "👥 My club: join in one step with your name, email and the club code, then the code we email you. Leaders can add members by email, even before they have the app.",
-    "🧪 While we are testing: a reminder when you sign in, and 47 made-up test hives to try things on. You can still add your own apiaries and hives. Everything entered while testing is erased before launch."
+    "❓ Settings › Help & support: report a problem (with screenshots and what you were doing), ask a question, or read the FAQ.",
+    "🚩 Something wrong in the bee yard? Say \"report a problem\" or \"mark that\", keep working, and send the report when you're done.",
+    "🧪 While we are testing, the app keeps a record of what you tap (not what you type) to help fix problems. It stays on your phone unless you send a report.",
+    "🐝 The hive picture is drawn from the back, shows your bottom board, and opens bigger when you tap it. New bottom board choice: screened with a sticky board, and you can change it right in an inspection."
   ]
 }
