@@ -1,5 +1,5 @@
-/* Keeps a copy of Bee Yard Wingman on the phone so it opens with no signal. */
-const CACHE = "hivemind-a2e071784f51";
+/* Keeps a copy of Bee Yard Wingman on the phone so it opens with no internet. */
+const CACHE = "hivemind-f4cd01b7f132";
 const FILES = ["./", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png", "./apple-touch-icon.png"];
 
 self.addEventListener("install", (e) => {
@@ -11,7 +11,7 @@ self.addEventListener("activate", (e) => {
     .then(() => self.clients.claim()));
 });
 // Answer from the phone's copy straight away; refresh that copy from the web in
-// the background when there's a signal.
+// the background when there's internet.
 self.addEventListener("fetch", (e) => {
   const req = e.request;
   // version.json (the update check) always comes fresh from the web.
