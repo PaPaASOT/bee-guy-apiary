@@ -1,11 +1,9 @@
 {
   "name": "Bee Yard Wingman",
-  "version": "2026.10.14.1336",
+  "version": "2026.10.14.1416",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "👥 My club (on Home): join your club with its code, read club announcements, and choose which yards to share. The club only ever gets counts, never where your yards are.",
-    "Club leaders see the club's numbers, who might need a hand, and members' licenses. Club printouts are inside My club now.",
-    "🧪 Try the practice club to see how it all works, even with no signal."
+    "Tap the numbers at the top of Home, an apiary or a hive to go straight to them: hives, honey, inspections, treatments and more."
   ]
 }
