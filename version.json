@@ -1,9 +1,12 @@
 {
   "name": "HiveMind",
-  "version": "2026.10.14.0106",
+  "version": "2026.10.14.0223",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
+    "\"I didn't look\", \"didn't check\" or \"not sure\" (eggs, the queen, queen cells) is no longer saved as a No. It's left blank, said or typed.",
+    "Hands-free: \"a couple\", \"two\" or \"several\" answers a yes-or-no question as yes.",
+    "On/off switches work with screen readers and keyboards too.",
     "New bottom board: Screened with oil pan. The hive's page gets an 🛢️ Oil pan section: log when the oil went in or was changed, and each check (beetles caught, oil OK or needs changing). A reminder to check it comes up every 14 days (change the days per hive).",
     "In an inspection of an oil-pan hive: tap Oil pan checked or Oil changed, and the beetles in it. Or say \"checked the oil pan, about twenty beetles\" or \"changed the oil\".",
     "Honey by apiary: the Harvest tab shows each apiary's honey for a year or every year. Tap an apiary to see its hives, then a hive to open it. A hive's honey tab shows its total and each year.",
