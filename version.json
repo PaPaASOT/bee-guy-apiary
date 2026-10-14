@@ -1,12 +1,13 @@
 {
   "name": "Bee Yard Wingman",
-  "version": "2026.10.14.1050",
+  "version": "2026.10.14.1122",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
     "🐝 Forage range: each apiary's page shows how far its bees likely fly, with rings at 1, 2, 3 and 5 miles on a street map or satellite view (needs signal).",
     "Set an apiary's spot without going there: find its street address, or tap the spot on a map. It stays on your own devices.",
     "Treatments have an optional lot number (printed on the package), to trace a treatment back if there are ever problems. Typed, said, or in a schedule.",
+    "Erase everything now saves a backup of your hives first, and ↩️ Put my old records back brings them right back.",
     "HiveMind has a new name: Bee Yard Wingman. Same app, same links, and all your hives and records stay just as they were.",
     "\"I didn't look\", \"didn't check\" or \"not sure\" (eggs, the queen, queen cells) is no longer saved as a No. It's left blank, said or typed.",
     "Hands-free: \"a couple\", \"two\" or \"several\" answers a yes-or-no question as yes.",
