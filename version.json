@@ -1,9 +1,11 @@
 {
   "name": "HiveMind",
-  "version": "2026.10.14.0012",
+  "version": "2026.10.14.0106",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
+    "New bottom board: Screened with oil pan. The hive's page gets an 🛢️ Oil pan section: log when the oil went in or was changed, and each check (beetles caught, oil OK or needs changing). A reminder to check it comes up every 14 days (change the days per hive).",
+    "In an inspection of an oil-pan hive: tap Oil pan checked or Oil changed, and the beetles in it. Or say \"checked the oil pan, about twenty beetles\" or \"changed the oil\".",
     "Honey by apiary: the Harvest tab shows each apiary's honey for a year or every year. Tap an apiary to see its hives, then a hive to open it. A hive's honey tab shows its total and each year.",
     "Treatments keep how much went in: grams, mL, strips and more, for the whole hive or per brood box (HiveMind works out the hive's total). A dribble also keeps the seams of bees.",
     "Say or write \"vaporized 2 grams of oxalic\" or \"dribbled 30 mL on 6 seams\" and the method and amount fill in. Dribble and trickle are one choice now.",
