@@ -1,4 +1,4 @@
-# HiveMind, by The Bee Guy
+# Bee Yard Wingman, by The Bee Guy
 
 The web version, for iPhone, iPad, computers and any browser: https://papaasot.github.io/bee-guy-apiary/
 

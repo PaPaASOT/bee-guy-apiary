@@ -1,5 +1,5 @@
-/* Keeps a copy of HiveMind on the phone so it opens with no signal. */
-const CACHE = "hivemind-02bc1e91776c";
+/* Keeps a copy of Bee Yard Wingman on the phone so it opens with no signal. */
+const CACHE = "hivemind-db7919b29869";
 const FILES = ["./", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png", "./apple-touch-icon.png"];
 
 self.addEventListener("install", (e) => {
