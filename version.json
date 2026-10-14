@@ -1,19 +1,15 @@
 {
   "name": "HiveMind",
-  "version": "2026.10.13.2024",
+  "version": "2026.10.14.0012",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "Save with something missing now jumps to that field, outlines it in red and says what's needed right under it.",
-    "Words typed in the notes box are always saved, even if you don't tap Fill Fields.",
-    "The \"Is this hive dead?\" question waits until you've finished typing.",
-    "Hive and apiary cards open when you tap them, and pages open at the top.",
-    "The hive and apiary stay at the top of an inspection while you scroll, with a close button beside them.",
-    "Inspection cards show everything saved: temperament, eggs, larvae, supers, honey taken, box changes and how mites were counted. Notes are labeled.",
-    "A hive's page shows its hive type, bottom board, its own inspection schedule, and the splits, swarms and combines it's part of.",
-    "Queen tags are easy to read in every mark colour.",
-    "Long names and long pest notes no longer push the screen sideways.",
-    "Add Hive asks which apiary instead of guessing; the Hives list's button uses the apiary you're looking at.",
-    "\"No money left\" is read as honey, and \"white specs\" as mite droppings."
+    "Honey by apiary: the Harvest tab shows each apiary's honey for a year or every year. Tap an apiary to see its hives, then a hive to open it. A hive's honey tab shows its total and each year.",
+    "Treatments keep how much went in: grams, mL, strips and more, for the whole hive or per brood box (HiveMind works out the hive's total). A dribble also keeps the seams of bees.",
+    "Say or write \"vaporized 2 grams of oxalic\" or \"dribbled 30 mL on 6 seams\" and the method and amount fill in. Dribble and trickle are one choice now.",
+    "Peppermint is on the treatment list, for small hive beetles.",
+    "Treatment schedules take an amount too, and each hive's total is saved with it.",
+    "New things to record: bees added to a colony (package, nuc, frames, and from which hive), pesticide harm, frames of comb replaced, and at a dead-out whether the queen was found and the honey robbed.",
+    "The Bee Buddy Voice says more: amounts, seams, peppermint, and every \"seen or done\" item in the read-back (bearding, mouse guard on, swarmed and more). \"Ounces\" sounds right now."
   ]
 }
