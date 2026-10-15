@@ -1,10 +1,9 @@
 {
   "name": "Bee Yard Wingman",
-  "version": "2026.10.14.2015",
+  "version": "2026.10.14.2019",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "🐝 Top cover: pick Telescoping or Migratory for each hive, and the hive picture shows it, named on the cover.",
-    "🧱 Inner cover: add it to a hive's boxes (+ Inner cover, or say \"put the inner cover on\"). New supers go under it."
+    "👥 My club: clearer messages when a code or a name isn't right, and license renewals follow the club's year-end rule."
   ]
 }
