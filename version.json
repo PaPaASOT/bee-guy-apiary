@@ -1,6 +1,6 @@
 {
   "name": "Bee Yard Wingman",
-  "version": "2026.10.15.1548",
+  "version": "2026.10.15.1632",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
@@ -14,6 +14,7 @@
     "🍯 The honey-frame count is now box by box: each brood box (deep, medium or shallow) and any super you're leaving on for winter, each weighed by its own size.",
     "📷 Pairing codes say plainly: scan them with Bee Yard Wingman's own camera (Settings › account › Add one of my devices), not the phone's Camera app.",
     "❓ Help & FAQ: new answers on winter stores, splits, replacing a queen, combined hives, the Hives tab numbers, signing in on a computer and scanning a pairing code.",
-    "🧪 Testers: the test hives come out before launch, and hives you add yourself stay on your phone (keep them in your own apiary)."
+    "🧪 Testers: the test hives come out before launch, and hives you add yourself stay on your phone (keep them in your own apiary).",
+    "📱 iPhone and iPad (website): the Home screen shows how to put Bee Yard Wingman on your Home Screen and sign in, so Safari can't erase your records."
   ]
 }
