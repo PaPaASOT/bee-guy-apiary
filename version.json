@@ -1,12 +1,9 @@
 {
   "name": "Bee Yard Wingman",
-  "version": "2026.10.15.0008",
+  "version": "2026.10.15.1331",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "👑 Hives tab: clearer queen buttons, and a new one, ❔ Not recorded, for hives whose queen hasn't been checked yet.",
-    "👑 Replacing a queen asks what happened to the old one: pinched (and why), moved to another hive or nuc, banked, or sold.",
-    "🧱 Combining hives by voice: no \"whose queen?\" question when one hive is queenless, and the hive that went away is kept as Inactive, combined into the other, with all its records.",
-    "🐝 Mite counts like \"2 in a 300 bee alcohol wash\" now keep the 300 bees."
+    "🔢 Hives tab: every hive and queen button shows how many hives it has, under bold Hive Status and Queen Status headings."
   ]
 }
