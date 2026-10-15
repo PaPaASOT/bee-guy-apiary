@@ -1,9 +1,10 @@
 {
   "name": "Bee Yard Wingman",
-  "version": "2026.10.15.1331",
+  "version": "2026.10.15.1338",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "🔢 Hives tab: every hive and queen button shows how many hives it has, under bold Hive Status and Queen Status headings."
+    "🔢 Hives tab: every hive and queen button shows how many hives it has, under bold Hive Status and Queen Status headings.",
+    "👑 A new hive added with a queen counts as Queen Right, and picking a queen status in Edit counts too."
   ]
 }
