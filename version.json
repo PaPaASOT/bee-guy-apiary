@@ -1,6 +1,6 @@
 {
   "name": "Bee Yard Wingman",
-  "version": "2026.10.15.1637",
+  "version": "2026.10.15.1639",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
@@ -15,7 +15,6 @@
     "📷 Pairing codes say plainly: scan them with Bee Yard Wingman's own camera (Settings › account › Add one of my devices), not the phone's Camera app.",
     "❓ Help & FAQ: new answers on winter stores, splits, replacing a queen, combined hives, the Hives tab numbers, signing in on a computer and scanning a pairing code.",
     "🧪 Testers: the test hives come out before launch, and hives you add yourself stay on your phone (keep them in your own apiary).",
-    "📱 iPhone and iPad (website): the Home screen shows how to put Bee Yard Wingman on your Home Screen and sign in, so Safari can't erase your records.",
-    "🔒 The weather lookup now sends only a rough area (about a mile across), never a yard's exact saved spot."
+    "📱 iPhone and iPad (website): the Home screen shows how to put Bee Yard Wingman on your Home Screen and sign in, so Safari can't erase your records."
   ]
 }
