@@ -1,25 +1,16 @@
 {
   "name": "Bee Yard Wingman",
-  "version": "2026.10.15.2044",
+  "version": "2026.10.16.1859",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "🔢 Hives tab: every hive and queen button shows how many hives it has, under bold Hive Status and Queen Status headings.",
-    "👑 A new hive added with a queen counts as Queen Right, and picking a queen status in Edit counts too.",
-    "✂️ Splits: say the whole plan at once (\"leave the queen in hive 6, the new hive raises its own\"), and the side without the queen either raises one or gets one put in, today or later.",
-    "✂️ + Add Hive, Came from Split: asks which one has the queen and updates both hives.",
-    "🍯 Winter stores: in an inspection, count the honey frames by how full they are for an estimate in pounds, and the target for your area. Set your own frame weights and target in Settings.",
-    "🍯 Count the honey frames by voice too: \"4 full deep frames, 2 half, one with one side full and the other half\". In hands-free, Buddy asks from August to November.",
-    "🍯 Winter targets now follow university extension figures across the US (wet Northwest and Colorado winters included); Settings › Winter stores lists the sources.",
-    "🍯 The honey-frame count is now box by box: each brood box (deep, medium or shallow) and any super you're leaving on for winter, each weighed by its own size.",
-    "📷 Pairing codes say plainly: scan them with Bee Yard Wingman's own camera (Settings › account › Add one of my devices), not the phone's Camera app.",
-    "❓ Help & FAQ: new answers on winter stores, splits, replacing a queen, combined hives, the Hives tab numbers, signing in on a computer and scanning a pairing code.",
-    "🧪 Testers: the test hives come out before launch, and hives you add yourself stay on your phone (keep them in your own apiary).",
-    "📱 iPhone and iPad (website): the Home screen shows how to put Bee Yard Wingman on your Home Screen and sign in, so Safari can't erase your records.",
-    "✂️ Splits: when no whole box came off, Buddy asks how many frames of brood, honey and pollen came out (+ Add Hive asks too).",
-    "💤 Inactive and dead-out hives say so in every hive list, and their page has ♻️ Start a new colony in this hive.",
-    "🏠 Home: \"by The Bee Guy\" and the version sit beside \"Your Apiary at a Glance\" on a phone; on a computer the title sits beside the logo.",
-    "🍯 Winter counts you've filled in stand out in gold.",
-    "📍 Send where I am now (Hives › Apiaries, or an apiary's page): text or email a map pin of where you're standing, to meet someone at a yard or a swarm."
+    "☠ Record a dead-out by voice: Bee Yard Wingman asks what you saw, one thing at a time, then the cause, and reads it back. No tapping.",
+    "🎙️ Voice control knows more treatments and feeds: sprayed oxalic acid, powdered sugar, drone brood removal, brood break, Fumagilin, ProSweet, pollen patty, fondant and candy board.",
+    "🎙️ Say \"save\" on its own while talking to save. \"Pollen coming in\" and frame counts no longer set the stores levels.",
+    "☠ \"Is the colony dead, or is it gone?\" A dead colony and one that left are recorded differently.",
+    "🐝 Buddy talks more smoothly, says more himself (about 130 new lines), and says Apivar, ApiLife, Api-Bioxal, nosema, Tylan and amitraz properly.",
+    "👂 The \"your turn\" tick waits until the phone is really listening, so your first word isn't lost. Many more misheard words understood.",
+    "✂️ Splits by voice: \"We're going to split hive 4\" starts one, and \"Hive five\" counts as Hive 5.",
+    "💊 Buddy says Mite Away Quick Strips back if that's what you said (saved as MAQS). One pound, two pounds."
   ]
 }
