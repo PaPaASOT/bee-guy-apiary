@@ -1,6 +1,6 @@
 {
   "name": "Bee Yard Wingman",
-  "version": "2026.10.15.1917",
+  "version": "2026.10.15.2044",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
@@ -18,6 +18,7 @@
     "📱 iPhone and iPad (website): the Home screen shows how to put Bee Yard Wingman on your Home Screen and sign in, so Safari can't erase your records.",
     "✂️ Splits: when no whole box came off, Buddy asks how many frames of brood, honey and pollen came out (+ Add Hive asks too).",
     "💤 Inactive and dead-out hives say so in every hive list, and their page has ♻️ Start a new colony in this hive.",
+    "🏠 Home: \"by The Bee Guy\" and the version sit beside \"Your Apiary at a Glance\" on a phone; on a computer the title sits beside the logo.",
     "🍯 Winter counts you've filled in stand out in gold.",
     "📍 Send where I am now (Hives › Apiaries, or an apiary's page): text or email a map pin of where you're standing, to meet someone at a yard or a swarm."
   ]
