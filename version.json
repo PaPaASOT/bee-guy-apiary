@@ -1,16 +1,13 @@
 {
   "name": "Bee Yard Wingman",
-  "version": "2026.10.16.1859",
+  "version": "2026.10.17.0050",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "☠ Record a dead-out by voice: Bee Yard Wingman asks what you saw, one thing at a time, then the cause, and reads it back. No tapping.",
-    "🎙️ Voice control knows more treatments and feeds: sprayed oxalic acid, powdered sugar, drone brood removal, brood break, Fumagilin, ProSweet, pollen patty, fondant and candy board.",
-    "🎙️ Say \"save\" on its own while talking to save. \"Pollen coming in\" and frame counts no longer set the stores levels.",
-    "☠ \"Is the colony dead, or is it gone?\" A dead colony and one that left are recorded differently.",
-    "🐝 Buddy talks more smoothly, says more himself (about 130 new lines), and says Apivar, ApiLife, Api-Bioxal, nosema, Tylan and amitraz properly.",
-    "👂 The \"your turn\" tick waits until the phone is really listening, so your first word isn't lost. Many more misheard words understood.",
-    "✂️ Splits by voice: \"We're going to split hive 4\" starts one, and \"Hive five\" counts as Hive 5.",
-    "💊 Buddy says Mite Away Quick Strips back if that's what you said (saved as MAQS). One pound, two pounds."
+    "👂 Helping Wingman hear you (Settings): it learns words you put right by voice (\"change vinyl to thymol\"), kept on your phone. Sharing the words, and keeping recordings of what it missed, only if you say so.",
+    "👂 Each question tells the phone what answers to expect (none, light, medium or heavy for the smoke), so short answers are heard right through noise.",
+    "🌬️ When the phone's listening freezes in loud noise, Wingman asks you to say it again right away instead of going quiet.",
+    "💊 \"…Mite Away Quick Strips, two strips\": a pause before the amount no longer loses it. Splits wait for the rest of your plan too.",
+    "👂 Many more misheard words understood in bee-yard noise (HopGuard, ApiLife Var, Api-Bioxal, Tylan, \"a puff or two of smoke\", Yellow-Legged Hornets)."
   ]
 }
