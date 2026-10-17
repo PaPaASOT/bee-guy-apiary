@@ -1,13 +1,13 @@
 {
   "name": "Bee Yard Wingman",
-  "version": "2026.10.17.0050",
+  "version": "2026.10.17.1949",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "👂 Helping Wingman hear you (Settings): it learns words you put right by voice (\"change vinyl to thymol\"), kept on your phone. Sharing the words, and keeping recordings of what it missed, only if you say so.",
-    "👂 Each question tells the phone what answers to expect (none, light, medium or heavy for the smoke), so short answers are heard right through noise.",
-    "🌬️ When the phone's listening freezes in loud noise, Wingman asks you to say it again right away instead of going quiet.",
-    "💊 \"…Mite Away Quick Strips, two strips\": a pause before the amount no longer loses it. Splits wait for the rest of your plan too.",
-    "👂 Many more misheard words understood in bee-yard noise (HopGuard, ApiLife Var, Api-Bioxal, Tylan, \"a puff or two of smoke\", Yellow-Legged Hornets)."
+    "🎧 Earpiece sound (Settings › Listening): Steady keeps your earpiece's microphone on, so Buddy answers sooner, and he's louder (+12, or pick your own while he talks).",
+    "✋ Talk over / interrupt Buddy: while he's asking or reading back, say stop, cancel, no, yes, save or next box on its own, and he stops and does it.",
+    "🔊 Say \"louder\" or \"softer\" any time to change how loud Buddy is in your earpiece.",
+    "🔕 Far fewer beeps: one when it's your turn to answer, none after every sentence, and the phone's own listening beeps kept quiet.",
+    "🏡 \"Which apiary?\" takes just the name, and a name heard a little off asks \"Did you mean Test Creek Yard?\", then remembers it."
   ]
 }
