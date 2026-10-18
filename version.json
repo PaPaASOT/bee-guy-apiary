@@ -1,6 +1,6 @@
 {
   "name": "Bee Yard Wingman",
-  "version": "2026.10.17.2100",
+  "version": "2026.10.17.2139",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
@@ -9,6 +9,7 @@
     "🔊 Say \"louder\" or \"softer\" any time to change how loud Buddy is in your earpiece.",
     "🔕 Far fewer beeps: one when it's your turn to answer, none after every sentence, and the phone's own listening beeps kept quiet.",
     "🏡 \"Which apiary?\" takes just the name, and a name heard a little off asks \"Did you mean Test Creek Yard?\", then remembers it.",
-    "🐝 Buddy says more himself, says less (\"Queen marked blue.\"), and waits for the rest when you pause partway through \"Treated hive 2…\"."
+    "🐝 Buddy says more himself, says less (\"Queen marked blue.\"), and waits for the rest when you pause partway through \"Treated hive 2…\".",
+    "⚙️ Settings: \"Go to a section…\" at the top; pick the voice that says names and your notes; voice control starts off each time the app opens (or on, if you choose)."
   ]
 }
