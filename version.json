@@ -1,17 +1,11 @@
 {
   "name": "Bee Yard Wingman",
-  "version": "2026.10.18.1917",
+  "version": "2026.10.18.2116",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "🌱 New to bees? The welcome now asks how long you've kept bees. New beekeepers get short tips in each inspection and a \"this time of year\" card on Home. Change it in Settings › What the app shows.",
-    "👑 Queen cells: say or tap where they are, how many and their state, and Wingman tells you what kind they probably are, when she'll come out, and when to look for eggs.",
-    "🌤️ Mating weather: when you find queen cells, the hive page shows which days look good for her mating flights, and can put the dates on your phone's calendar.",
-    "📦 Nucs of 3 or 2 frames, mini mating nucs and queen castles, drawn to scale.",
-    "💊 Log a treatment or feeding for the entire yard at once.",
-    "🟫 Brood pattern: solid, spotty or didn't look, with \"Why spotty brood?\" on the hive page.",
-    "📊 On a computer, the website has a Dashboard where you can make everyday changes that go to your phone (when signed in).",
-    "✅ A Getting started list on Home, a 1-minute practice with Buddy, ❓ help on each screen, and a feedback button in Help & questions.",
-    "🐛 Mite counts now follow the time of year: treat at 6 or more mites in 300 bees from April to October, 3 or more from November to March. Or set your own levels in Settings › When to treat for mites."
+    "🔧 Fixes from a full check: queen cells heard more accurately (a plan to check isn't a sighting, and a hive or box number isn't how many), and Buddy says their kind once.",
+    "📦 \"A five frame nuc with three frames of brood\" stays a 5-frame nuc, and \"a full brood box\" isn't taken as a brood pattern.",
+    "⚙️ Settings › App version: Copy for tech support is right under the version number."
   ]
 }
