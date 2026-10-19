@@ -1,11 +1,15 @@
 {
   "name": "Bee Yard Wingman",
-  "version": "2026.10.18.2116",
+  "version": "2026.10.19.0326",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "🔧 Fixes from a full check: queen cells heard more accurately (a plan to check isn't a sighting, and a hive or box number isn't how many), and Buddy says their kind once.",
-    "📦 \"A five frame nuc with three frames of brood\" stays a 5-frame nuc, and \"a full brood box\" isn't taken as a brood pattern.",
-    "⚙️ Settings › App version: Copy for tech support is right under the version number."
+    "🧮 Syrup calculator for bigger operations: totes, pallets and super sacks of sugar, your own tanks, \"Hives to feed\" with tank loads, and syrup bought ready-made.",
+    "🧰 Care › Gear: your boxes and frames on the hives and in storage. Storage follows the boxes you add and take off, and \"Enough for spring?\" shows what's short.",
+    "☠️ A dead-out now asks what happens to its equipment. With foulbrood, nothing gets reused or moved until the inspector has seen it.",
+    "🏷️ QR hive tags: print stickers from an apiary's page, then tap 📷 Scan a hive tag and that hive opens, ready to inspect.",
+    "🐝 Picking a hive: choose the yard first, then the hive from cards showing its boxes, queen colour and last inspection. Or search every yard.",
+    "✨ Easier to use: tap anywhere in a choice box, Enter goes to the next box, and buttons stand out more.",
+    "🥣 What's added to syrup is now by kind: feeding stimulant, vitamins or amino acids, probiotics, vinegar or citric acid, thymol, or other."
   ]
 }
