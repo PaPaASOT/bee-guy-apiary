@@ -1,16 +1,12 @@
 {
   "name": "Bee Yard Wingman",
-  "version": "2026.10.20.0547",
+  "version": "2026.10.20.1230",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "🧤 Gloves mode (⚙️ Settings › In the bee yard): bigger buttons with more space, for tapping with gloves on.",
-    "☀️ Sunlight mode, next to it: black on white, easier to read in bright sun.",
-    "↩️ After saving an inspection, harvest, feeding or treatment, tap UNDO in the bar at the bottom (8 seconds).",
-    "🔎 A search box at the top of Settings.",
-    "💾 Not signed in? Once a month Home offers to save a backup.",
-    "🎙️ Buddy understands more: \"Did you mean Hive 4?\" when a hive name is close, a new command while he waits for \"save\" asks to save first instead of dropping it, and short answers the phone cut off (\"None\", \"Not found\") are kept.",
-    "🏛️ Share with my state (⚙️ Settings): choose whether your records may go to your state's apiary inspectors and to the USDA bee surveys, each its own switch, all off until you turn them on. Nothing is sent yet: it waits for the state's agreement.",
-    "☠ Recording a dead-out by voice: a small bar shows which question you're on, with Finish by tapping (your spoken answers carry over). At the end Buddy asks \"Is that right?\": yes saves it, no asks what to change."
+    "🐝 Long Langstroth hives: pick the frame depth (deep, medium or double deep), how many frames it holds, which end is frame 1 (⇄ Flip), the follower board, and as many entrances as you like (each open, reduced or closed).",
+    "🧱 A long hive is inspected by what's in the frames: brood nest, pollen and honey band, honey, empty frames and where the follower board is. Its page shows it from the side, and warns when it's running out of room.",
+    "🎙️ By voice too: \"about nine frames of brood\", \"four full and two half\", \"follower board at eighteen\", \"closed the side entrance\".",
+    "🧤 Gloves mode: the ⚙️ gear sits in the middle of its button again."
   ]
 }
