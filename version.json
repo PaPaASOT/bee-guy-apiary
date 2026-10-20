@@ -1,9 +1,10 @@
 {
   "name": "Bee Yard Wingman",
-  "version": "2026.10.19.1016",
+  "version": "2026.10.19.2139",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "☑️ The tick boxes in My club (\"With a license\", renewing licenses, the printout choices) and on the PC dashboard show again."
+    "☁️ Home now shows whether you're signed in. Not signed in: a card with Sign in (your records are only on this phone until you do). Signed in: a green line with your email and your last backup.",
+    "🔑 Signing in is in ⚙️ Settings › ☁️ My Bee Yard Wingman account for everyone now. The code comes by email."
   ]
 }
