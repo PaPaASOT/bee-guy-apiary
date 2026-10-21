@@ -1,13 +1,14 @@
 {
   "name": "Bee Yard Wingman",
-  "version": "2026.10.21.1508",
+  "version": "2026.10.21.1731",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "🚪 Entrances on every hive: the front (open, reduced on the reducer's big or small notch, or closed), the inner cover's notch (down or up, front or back) and a back entrance. A mouse guard or robbing screen goes on the front.",
-    "👀 The hive picture is from the back, so the front entrance shows in its own strip under it, as you'd see it standing in front.",
-    "🍯 The feeder on the hive: top, jar or pail, bag, candy board, pollen patty, frame (1 or 2 frames) or a Boardman at the entrance. The Feeding form fills in from it (\"Filled it\").",
-    "⚠️ A feeder and a super together asks: take one off, or \"no flow on, they're drawing comb\". Pollen patties never ask.",
-    "🪵 Quilt boxes (with a spring reminder to take them off) and shims, including Imirie shims with their own entrance."
+    "⬆️ Move up to a hive: on a nuc's page, move it into a 10- or 8-frame hive. It stays the same hive (same queen, same records); the empty nuc goes back to storage.",
+    "🟨 Pro Nuc: pick 5-frame, then Box › Pro Nuc (plastic). It's drawn the way it looks, with its sliding gate in the front end (Open, Cracked or Closed) and its two lid ports: a soda bottle in one, a gallon jug in the other.",
+    "🍯 More than one feeder on a hive, one of each kind: say a pollen patty on top while an entrance feeder gives syrup. \"+ Add another feeder\" in the hive's setup; the Feeding form asks which one you filled.",
+    "🔎 Check the feeders: on the hive page (🍯 Check feeders), in an inspection or by voice, say how full each is. Jars are just counted (\"1 empty, 2 half, 1 quarter\"), never numbered.",
+    "⏰ Feeding reminders: right away when anything's empty or at ¼, and on the day it'll get low at the rate that hive's been taking it. Two or more in a yard make one reminder; tap it to see which hives.",
+    "🫙 Jars or a bucket on top, outside: 1 to 4 quart jars, a 1-, 2- or 4-gallon pail, or a 5-gallon bucket, upside down over the inner cover. They're drawn on the hive, with no telescoping cover while they're on."
   ]
 }
