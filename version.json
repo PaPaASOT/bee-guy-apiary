@@ -1,10 +1,13 @@
 {
   "name": "Bee Yard Wingman",
-  "version": "2026.10.21.0148",
+  "version": "2026.10.21.1508",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "🎙️ Buddy now says the long hive and top bar questions and read-backs in his own voice (follower boards, bars, cross comb, mouse guards and robbing screens).",
-    "✏️ \"Put an entrance disc on\" and \"lots of cross comb\" read right."
+    "🚪 Entrances on every hive: the front (open, reduced on the reducer's big or small notch, or closed), the inner cover's notch (down or up, front or back) and a back entrance. A mouse guard or robbing screen goes on the front.",
+    "👀 The hive picture is from the back, so the front entrance shows in its own strip under it, as you'd see it standing in front.",
+    "🍯 The feeder on the hive: top, jar or pail, bag, candy board, pollen patty, frame (1 or 2 frames) or a Boardman at the entrance. The Feeding form fills in from it (\"Filled it\").",
+    "⚠️ A feeder and a super together asks: take one off, or \"no flow on, they're drawing comb\". Pollen patties never ask.",
+    "🪵 Quilt boxes (with a spring reminder to take them off) and shims, including Imirie shims with their own entrance."
   ]
 }
