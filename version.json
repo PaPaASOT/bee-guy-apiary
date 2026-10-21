@@ -1,12 +1,13 @@
 {
   "name": "Bee Yard Wingman",
-  "version": "2026.10.20.1230",
+  "version": "2026.10.21.0131",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "🐝 Long Langstroth hives: pick the frame depth (deep, medium or double deep), how many frames it holds, which end is frame 1 (⇄ Flip), the follower board, and as many entrances as you like (each open, reduced or closed).",
-    "🧱 A long hive is inspected by what's in the frames: brood nest, pollen and honey band, honey, empty frames and where the follower board is. Its page shows it from the side, and warns when it's running out of room.",
-    "🎙️ By voice too: \"about nine frames of brood\", \"four full and two half\", \"follower board at eighteen\", \"closed the side entrance\".",
-    "🧤 Gloves mode: the ⚙️ gear sits in the middle of its button again."
+    "🐝 Long hives are drawn from above now, the way you see them with the lid off. \"I stand at the Front | Back\" under the drawing turns it round if you work from the back.",
+    "🪵 Boards inside the hive: follower boards (one each side for a colony in the middle) and a red solid divider for two colonies in one box, each its own hive. A board sits at its own frame, like \"at 20, between 19 and 21\".",
+    "🚪 Entrances: what kind (bottom slot, round hole, upper slot) and what's on it (mouse guard, robbing screen, entrance disc). Reduced ones show an R. Say \"put the mouse guards on\".",
+    "🍯 Top bar hives get the same: bars, boards, entrances and the drawing, plus cross comb, comb attached and new comb.",
+    "🟧 \"Pollen and honey band\" is now \"frames of pollen\"."
   ]
 }
