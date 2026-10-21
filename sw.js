@@ -1,5 +1,5 @@
 /* Keeps a copy of Bee Yard Wingman on the phone so it opens with no internet. */
-const CACHE = "hivemind-b7f7599e547b";
+const CACHE = "hivemind-939afe9f9205";
 const FILES = ["./", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png", "./apple-touch-icon.png"];
 
 self.addEventListener("install", (e) => {

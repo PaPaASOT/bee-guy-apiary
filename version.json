@@ -1,14 +1,15 @@
 {
   "name": "Bee Yard Wingman",
-  "version": "2026.10.21.1731",
+  "version": "2026.10.21.1848",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "⬆️ Move up to a hive: on a nuc's page, move it into a 10- or 8-frame hive. It stays the same hive (same queen, same records); the empty nuc goes back to storage.",
-    "🟨 Pro Nuc: pick 5-frame, then Box › Pro Nuc (plastic). It's drawn the way it looks, with its sliding gate in the front end (Open, Cracked or Closed) and its two lid ports: a soda bottle in one, a gallon jug in the other.",
-    "🍯 More than one feeder on a hive, one of each kind: say a pollen patty on top while an entrance feeder gives syrup. \"+ Add another feeder\" in the hive's setup; the Feeding form asks which one you filled.",
-    "🔎 Check the feeders: on the hive page (🍯 Check feeders), in an inspection or by voice, say how full each is. Jars are just counted (\"1 empty, 2 half, 1 quarter\"), never numbered.",
-    "⏰ Feeding reminders: right away when anything's empty or at ¼, and on the day it'll get low at the rate that hive's been taking it. Two or more in a yard make one reminder; tap it to see which hives.",
-    "🫙 Jars or a bucket on top, outside: 1 to 4 quart jars, a 1-, 2- or 4-gallon pail, or a 5-gallon bucket, upside down over the inner cover. They're drawn on the hive, with no telescoping cover while they're on."
+    "🔲 Double screen board: + Double screen board in a hive's boxes. Plain (one entrance: back, front or closed) or Snelgrove (a pair of doors, upper and lower, on the left side, back and right side). The colony on top is its own hive, and each hive's page links to the other.",
+    "🗺️ Yard map: on each apiary's page, a drawing of the yard from above. Place your hives, their stands (a 4x4 each, or a shared stand), the gate, trees, fences and the like, and turn each hive to the way its entrance faces.",
+    "🎨 The map shows what needs doing (inspection due, feeder low, queenless, dead-out), your queens' mark colors, or your walking order (number them yourself, or let it suggest one from the gate). Tap a hive to open it or inspect it.",
+    "🔒 The map is kept on your phone only. It's never sent to your club.",
+    "🗣️ Buddy says \"emerged\" for a queen cell the queen has come out of (it used to say \"opened\", which sounded like \"open\"), and says how an entrance is now: \"The entrance is open\", \"The gate is closed\". \"Chewed open at the bottom\" is understood as emerged, not torn.",
+    "👥 My club: a 👥 Roles section (who does what), a member list you can bring in from Excel, personal invites, a printable meeting sign-in sheet, and asking to start your own club. Some of these turn on in the next few days.",
+    "🔎 Settings search: a section near the end (like 🧤 In the bee yard) now goes all the way up under the search bar."
   ]
 }
