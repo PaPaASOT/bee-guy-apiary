@@ -1,13 +1,12 @@
 {
   "name": "Bee Yard Wingman",
-  "version": "2026.10.22.1311",
+  "version": "2026.10.22.1340",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "🐝 Edit Hive: the hive is drawn from the front and from the back, above the boxes. The front shows the entrance as it's left, its reducer, mouse guard or robbing screen, and an entrance feeder's jar. Tap it to see both bigger, sized to fit your screen.",
-    "🔲 The double screen board is now a DS Board. Plain has one entrance at the back, open or closed. With doors has 6 doors, or 8 with a front pair.",
-    "⬆️ A hive with a colony on its DS Board says which hive sits on top, over its boxes.",
-    "🧱 Boxes: the names along the left are bold, the boxes only as wide as their words, and shims say what they're for in short words, so nothing is cut off on a small phone.",
-    "🧪 The Testing button sits beside the title on Home."
+    "⚠️ A warning when every entrance on a hive is closed: in red on Home when the app opens (tap the hive to open it), and on the hive's Edit screen.",
+    "🚪 The front entrance's opening is Open, Large, Small or Closed (Large is the reducer's middle opening; Small is near the end you pick). The bottom board's deep or shallow side is no longer asked.",
+    "🔲 The DS Board's Plain or w/doors sit on its own line.",
+    "🍯 Feeder units (gallons, quarts, liters, lbs) no longer break in half on a small phone."
   ]
 }
