@@ -1,15 +1,17 @@
 {
   "name": "Bee Yard Wingman",
-  "version": "2026.10.21.1923",
+  "version": "2026.10.22.0418",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "🔲 Double screen board: + Double screen board in a hive's boxes. Plain (one entrance: back, front or closed) or Snelgrove (a pair of doors, upper and lower, on the left side, back and right side). The colony on top is its own hive, and each hive's page links to the other.",
-    "🗺️ Yard map: on each apiary's page, a drawing of the yard from above. Place your hives, their stands (a 4x4 each, or a shared stand), the gate, trees, fences and the like, and turn each hive to the way its entrance faces.",
-    "🎨 The map shows what needs doing (inspection due, feeder low, queenless, dead-out), your queens' mark colors, or your walking order (number them yourself, or let it suggest one from the gate). Tap a hive to open it or inspect it.",
-    "🔒 The map is kept on your phone only. It's never sent to your club.",
-    "🗣️ Buddy says \"emerged\" for a queen cell the queen has come out of (it used to say \"opened\", which sounded like \"open\"), and says how an entrance is now: \"The entrance is open\", \"The gate is closed\". \"Chewed open at the bottom\" is understood as emerged, not torn.",
-    "👥 My club: a 👥 Roles section (who does what), a member list you can bring in from Excel, personal invites, a printable meeting sign-in sheet, and asking to start your own club. Some of these turn on in the next few days.",
-    "🔎 Settings search: a section near the end (like 🧤 In the bee yard) now goes all the way up under the search bar."
+    "👆 Forms use tap buttons instead of dropdowns: treatments (the most used first, More… for the rest), feeding units, feeders, how mites were counted, the queen (status, variety, mark color as colored dots with their year), harvest honey type (Sourwood added) and queen rearing. Gold is picked; tap it again to clear an answer you can leave out.",
+    "🧱 Boxes: one line for each box or layer, lined up with the hive picture beside it; ✕ then Undo puts a box back where it was.",
+    "🪵 Shims say what they are used for: upper entrance (the Imirie shim), fondant, a pollen patty, a bag feeder, a treatment or a spacer. Fondant, a patty or a bag also go on the hive feeders. Buddy still understands \"Imirie shim\".",
+    "🚪 Front and back entrances are listed first.",
+    "🧱 Boxes, top to bottom: a small name in front of each row again. ⇅ Swap between two supers or two brood boxes trades them (on an inspection it is noted: Reversed the brood boxes, or Swapped the supers).",
+    "📍 Adding a queen excluder, shim, quilt box or double screen board asks where it goes; so does another super (on top, between two, or under the supers for bottom supering) or brood box.",
+    "🍯 Each feeder on a hive shows its kind with a Change button.",
+    "🚚 Yard map custom pallet: One row or Two rows, back to back are buttons with a small drawing of the pallet.",
+    "📅 The year you started keeping bees: the last six years are buttons, Earlier… for an older year; tap it again to clear it."
   ]
 }
