@@ -1,17 +1,11 @@
 {
   "name": "Bee Yard Wingman",
-  "version": "2026.10.22.0418",
+  "version": "2026.10.22.1210",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "👆 Forms use tap buttons instead of dropdowns: treatments (the most used first, More… for the rest), feeding units, feeders, how mites were counted, the queen (status, variety, mark color as colored dots with their year), harvest honey type (Sourwood added) and queen rearing. Gold is picked; tap it again to clear an answer you can leave out.",
-    "🧱 Boxes: one line for each box or layer, lined up with the hive picture beside it; ✕ then Undo puts a box back where it was.",
-    "🪵 Shims say what they are used for: upper entrance (the Imirie shim), fondant, a pollen patty, a bag feeder, a treatment or a spacer. Fondant, a patty or a bag also go on the hive feeders. Buddy still understands \"Imirie shim\".",
-    "🚪 Front and back entrances are listed first.",
-    "🧱 Boxes, top to bottom: a small name in front of each row again. ⇅ Swap between two supers or two brood boxes trades them (on an inspection it is noted: Reversed the brood boxes, or Swapped the supers).",
-    "📍 Adding a queen excluder, shim, quilt box or double screen board asks where it goes; so does another super (on top, between two, or under the supers for bottom supering) or brood box.",
-    "🍯 Each feeder on a hive shows its kind with a Change button.",
-    "🚚 Yard map custom pallet: One row or Two rows, back to back are buttons with a small drawing of the pallet.",
-    "📅 The year you started keeping bees: the last six years are buttons, Earlier… for an older year; tap it again to clear it."
+    "🧪 Help us test: while Wingman is being tested, it keeps a record of what it hears, what you tap and the words it gets wrong, on your phone, so we can fix them. Wingman never listens when it isn't running, and only when you turn voice on. Change it any time with the 🧪 Testing button on Home.",
+    "🎙️ Sending your misheard recordings and sharing hive records for research stay off unless you turn them on.",
+    "☁️ Sign in from Home now opens your account section in full, just under the search bar."
   ]
 }
