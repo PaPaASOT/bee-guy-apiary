@@ -1,9 +1,12 @@
 {
   "name": "Bee Yard Wingman",
-  "version": "2026.10.22.1951",
+  "version": "2026.10.23.1256",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "💊 Care: the Treatments, Feeding, Seasonal and Gear buttons stay at the top while you scroll down a list."
+    "🔁 Buddy says back the important part right after each answer, like \"4 mites.\" or \"Queen seen, bees calm.\", so a mishearing is caught while the frame is still in your hand. Prefer just the buzz? ⚙️ Settings › 🎙️ Listening › 📳 Buzz only.",
+    "✏️ Change anything by voice: \"change the queen status to queenless\", \"change eggs to no\", \"change the honey to high\". It works while you talk, between questions and at the read-back, and your notes change to match.",
+    "👑 The read-back now says the queen status (queenless, not sure, needs replacing) and nectar.",
+    "🗣️ \"The bees are calm honey is low\" said in one breath is now heard as two things, and \"Cancel the hive\" cancels straight away."
   ]
 }
