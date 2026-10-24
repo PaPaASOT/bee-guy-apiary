@@ -1,12 +1,23 @@
 {
   "name": "Bee Yard Wingman",
-  "version": "2026.10.23.1256",
+  "version": "2026.10.24.1424",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "🔁 Buddy says back the important part right after each answer, like \"4 mites.\" or \"Queen seen, bees calm.\", so a mishearing is caught while the frame is still in your hand. Prefer just the buzz? ⚙️ Settings › 🎙️ Listening › 📳 Buzz only.",
-    "✏️ Change anything by voice: \"change the queen status to queenless\", \"change eggs to no\", \"change the honey to high\". It works while you talk, between questions and at the read-back, and your notes change to match.",
-    "👑 The read-back now says the queen status (queenless, not sure, needs replacing) and nectar.",
-    "🗣️ \"The bees are calm honey is low\" said in one breath is now heard as two things, and \"Cancel the hive\" cancels straight away."
+    "👥 My club is in sections by job: Club news, Secretary, Licenses and dues, Club numbers, Swarm team, Officers and admin. Tap a heading to open it, or pick one from Jump to at the top.",
+    "🎖️ Club leaders are now called officers.",
+    "🪣 Hives list: Sort by hive type.",
+    "✏️ Hive and yard names have a length limit, so they fit on the phone's screen.",
+    "🗣️ Say \"double screened board\" (or \"double screen board\"). Just \"double screen\" and Buddy asks which you meant; a door said without the board, Buddy asks too.",
+    "✅ Meeting check-in, with no cell service: in 👥 My club, members tap ✅ Check in. They show their own code to the secretary, or scan the meeting's code on the secretary's phone or a printed card on the table.",
+    "🚪 Club secretaries: 📋 Member list › Check people in. Scan members' codes, tap names, add visitors, show the meeting code, or print the table card. It's all kept on the phone and sent when there's service.",
+    "📶 My club opens with no service too, from what the phone kept last time.",
+    "🔤 Check people in: sort the names by first or last name, and tap a letter A to Z to jump there. On an iPad or computer the names show in columns.",
+    "📷 Scanning a check-in code: a green box says it worked, a red one says why not. Code won't scan? Tap 🙋 Show my code to the secretary instead.",
+    "🛟 Club officers: if your club's other admin is gone, ask for them to be replaced from their row in 👥 Roles.",
+    "🍬 Candy boards: three more recipes (sugar bricks, Mountain Camp and fondant).",
+    "🚚 A new pallet on the yard map goes on open ground, never hidden under other hives.",
+    "🗣️ Buddy understands more: honey counts like \"four full and two half\", oxalic acid said many ways, moving hives and pallets by voice, and a sentence the phone cut off is asked again.",
+    "🔔 Your turn to answer now has the same rising sound as when listening starts."
   ]
 }
