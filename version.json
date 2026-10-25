@@ -1,25 +1,17 @@
 {
   "name": "Bee Yard Wingman",
-  "version": "2026.10.24.1629",
+  "version": "2026.10.25.0142",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "📱 Fixed: on some older phones the app stopped with \"Something went wrong\" as soon as it opened. It works on them again.",
-    "🗣️ Splitting a hive by voice: say \"skip\" for the new hive's name and Buddy gives it the next number, like Hive 7.",
-    "👥 My club is in sections by job: Club news, Secretary, Licenses and dues, Club numbers, Swarm team, Officers and admin. Tap a heading to open it, or pick one from Jump to at the top.",
-    "🎖️ Club leaders are now called officers.",
-    "🪣 Hives list: Sort by hive type.",
-    "✏️ Hive and yard names have a length limit, so they fit on the phone's screen.",
-    "🗣️ Say \"double screened board\" (or \"double screen board\"). Just \"double screen\" and Buddy asks which you meant; a door said without the board, Buddy asks too.",
-    "✅ Meeting check-in, with no cell service: in 👥 My club, members tap ✅ Check in. They show their own code to the secretary, or scan the meeting's code on the secretary's phone or a printed card on the table.",
-    "🚪 Club secretaries: 📋 Member list › Check people in. Scan members' codes, tap names, add visitors, show the meeting code, or print the table card. It's all kept on the phone and sent when there's service.",
-    "📶 My club opens with no service too, from what the phone kept last time.",
-    "🔤 Check people in: sort the names by first or last name, and tap a letter A to Z to jump there. On an iPad or computer the names show in columns.",
-    "📷 Scanning a check-in code: a green box says it worked, a red one says why not. Code won't scan? Tap 🙋 Show my code to the secretary instead.",
-    "🛟 Club officers: if your club's other admin is gone, ask for them to be replaced from their row in 👥 Roles.",
-    "🍬 Candy boards: three more recipes (sugar bricks, Mountain Camp and fondant).",
-    "🚚 A new pallet on the yard map goes on open ground, never hidden under other hives.",
-    "🗣️ Buddy understands more: honey counts like \"four full and two half\", oxalic acid said many ways, moving hives and pallets by voice, and a sentence the phone cut off is asked again.",
-    "🔔 Your turn to answer now has the same rising sound as when listening starts."
+    "👑 Queen ages: each hive's page shows how old its queen is. Started as a cell or a virgin, it's in months; a bought queen shows her year and how long she's been in that hive.",
+    "👑 Hives › All my queens and their ages: oldest first, with Getting old, Year unknown and Queenless. Type the age you call getting old (2 years until you change it).",
+    "🔔 Pick the sound for your turn to answer: ⚙️ Settings › 🎙️ Listening › The sound. Tap one to hear it.",
+    "🐝 A new Hives picture in the menu, menu pictures in full color, and the one you're on is shaded.",
+    "🤔 What am I looking at? in an inspection: what to look for in each box, or describe what you see to get what it most likely is, what to do, and photos.",
+    "▾ Every dropdown is the app's own list, right under the box.",
+    "🏠 Home's hive list: pick All yards or one yard. Filter and sort buttons say what they do.",
+    "📋 Club officers: bring in the club's member sheet your way. Pick where each column goes, or make a club field for it.",
+    "📱 Older phones: hives drag on the yard map again, and Buddy hears better on them."
   ]
 }
