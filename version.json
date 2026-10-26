@@ -1,12 +1,14 @@
 {
   "name": "Bee Yard Wingman",
-  "version": "2026.10.26.1342",
+  "version": "2026.10.26.1723",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
     "🗑️ Deleting an apiary with hives asks first: delete its hives too, or keep them.",
     "📦 Where are they going? Tick hives and tap the apiary they're going to, a group at a time. Also from 📦 Move hives… under Unassigned.",
     "🔢 Moving a hive into a yard that already has its number: it gets the next free number, or type a name of your own.",
+    "🗣️ Say \"move Hive 5 to Creek Side\" to move a hive to another apiary. Buddy reads it back; if that yard has a Hive 5, he picks the next free number, or say \"call it\" and a name.",
+    "🔒 Settings › App version: a link to the privacy policy.",
     "🚚 Changed where an apiary is? Say whether it moved or you're fixing a mistake, so earlier inspections stay where they happened."
   ]
 }
