@@ -1,9 +1,11 @@
 {
   "name": "Bee Yard Wingman",
-  "version": "2026.10.26.1723",
+  "version": "2026.10.26.1758",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
+    "🏠 ✏️ Change what's on Home (at the bottom of Home): tap cards to show or hide them, or pick 🌱 Simple or 🐝 Everything. New beekeepers start on Simple.",
+    "👥 Settings › What the app shows: a Join a club button, for when you get a club code.",
     "🗑️ Deleting an apiary with hives asks first: delete its hives too, or keep them.",
     "📦 Where are they going? Tick hives and tap the apiary they're going to, a group at a time. Also from 📦 Move hives… under Unassigned.",
     "🔢 Moving a hive into a yard that already has its number: it gets the next free number, or type a name of your own.",
