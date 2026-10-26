@@ -1,17 +1,12 @@
 {
   "name": "Bee Yard Wingman",
-  "version": "2026.10.25.0142",
+  "version": "2026.10.26.1342",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "👑 Queen ages: each hive's page shows how old its queen is. Started as a cell or a virgin, it's in months; a bought queen shows her year and how long she's been in that hive.",
-    "👑 Hives › All my queens and their ages: oldest first, with Getting old, Year unknown and Queenless. Type the age you call getting old (2 years until you change it).",
-    "🔔 Pick the sound for your turn to answer: ⚙️ Settings › 🎙️ Listening › The sound. Tap one to hear it.",
-    "🐝 A new Hives picture in the menu, menu pictures in full color, and the one you're on is shaded.",
-    "🤔 What am I looking at? in an inspection: what to look for in each box, or describe what you see to get what it most likely is, what to do, and photos.",
-    "▾ Every dropdown is the app's own list, right under the box.",
-    "🏠 Home's hive list: pick All yards or one yard. Filter and sort buttons say what they do.",
-    "📋 Club officers: bring in the club's member sheet your way. Pick where each column goes, or make a club field for it.",
-    "📱 Older phones: hives drag on the yard map again, and Buddy hears better on them."
+    "🗑️ Deleting an apiary with hives asks first: delete its hives too, or keep them.",
+    "📦 Where are they going? Tick hives and tap the apiary they're going to, a group at a time. Also from 📦 Move hives… under Unassigned.",
+    "🔢 Moving a hive into a yard that already has its number: it gets the next free number, or type a name of your own.",
+    "🚚 Changed where an apiary is? Say whether it moved or you're fixing a mistake, so earlier inspections stay where they happened."
   ]
 }
