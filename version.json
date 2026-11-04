@@ -1,12 +1,9 @@
 {
   "name": "Bee Yard Wingman",
-  "version": "2026.11.03.2110",
+  "version": "2026.11.04.1007",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "Club equipment now shows how many are available and on loan, with partial returns.",
-    "Add equipment and supplies together, lend supplies, and move items between the two lists.",
-    "Lend to anyone on the club member list, including people without an app account.",
-    "Print or save the club equipment list. If a connection drops while saving, review the refreshed lists before making another change."
+    "Fixed: Buddy speaks again, so hands-free inspections start right away."
   ]
 }
