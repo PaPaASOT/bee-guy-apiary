@@ -1,9 +1,10 @@
 {
   "name": "Bee Yard Wingman",
-  "version": "2026.11.04.1815",
+  "version": "2026.11.04.1923",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
+    "New: you can choose to send crash reports to help us fix problems faster. Nothing is sent unless you say yes; change it any time in Settings > Help & support.",
     "My club is split into short tabs: Club, Equipment, Swarms, and Officers for officers. \"See it as a member\" shows what members see.",
     "The voice screen shows Mic ON, Mic Paused or Mic OFF in big letters, and the mic lets go when you leave the app.",
     "Fixed: meeting check-ins could be lost when several came in at once.",
