@@ -1,14 +1,24 @@
 {
   "name": "Bee Yard Wingman",
-  "version": "2026.11.06.0713",
+  "version": "2026.11.10.0212",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "The app is a smaller download. Buddy's voice files are smaller, and he sounds the same.",
-    "Buddy now says \"nosema\" the right way.",
-    "Voice: \"palette\" or \"pilot\" now means pallet, and \"next to a pallet\" never moves a hive to another yard.",
-    "Club officers see new members with whole-club totals, and can let people join the member list only.",
-    "Bloom's first and last tabs always stay visible, and the map-key reminder waits a day after you tap Later.",
-    "The \"?\" help on long pages now scrolls, so you can always reach Close."
+    "Set up or join your club right from the welcome screen.  Club forms keep your draft on this phone, show a problem right beside the box, and explain who can be given a role.",
+    "When you add someone to the member list, Paid up starts unticked.  Tick it only when they've paid.",
+    "Bringing in a member list from Excel shows each row's number from the sheet and sorts people into new, updated, unchanged and left out.  Dates stay the day written in the sheet.",
+    "When you reuse a saved import setup, check the name column.  If names are written Last, First, tick whether to turn them round.",
+    "Pick a time from the list or type your own.  Your club's meeting day is kept on this phone for now.",
+    "Home puts Inspect a hive, My hives and today's to-dos up front. Find Settings, Getting started and other tools in More.",
+    "Try the colorful honeycomb Home with New Home (try it) in Settings. It starts off. See all groups due work by yard.",
+    "Bigger, clearer tile pictures on Home",
+    "If you dismiss the microphone prompt, Talk switches off and tells you Wingman needs the microphone. You can still type.",
+    "Let Buddy finish the question and wait until the screen says Listening before answering.  If you hear a beep, let it finish too.  An answer started too soon can be missed.",
+    "Say \"nothing\" when Buddy asks what needs doing next time. Any task you already entered stays in place. \"Bring gloves\" stays in the notes.",
+    "Buddy keeps the bee sample size you say with a mite count, asks again after an off-topic queen answer, and checks which hive you meant before a split.",
+    "In a long hive, Buddy repeats the brood-frame count before asking how much brood you saw. When you say you put in a new marked queen in a cage, review how she'll be released before setting her checks.",
+    "Settings has shorter explanations, fuller help under ?, and search that finds switches by name.",
+    "If you're signed out, Wingman can offer a backup after your third saved inspection. Canceling a restore keeps your photos and recordings.",
+    "Care and My club tabs open at the top. Club role confirmations show what the club has on record, or say if it couldn't be confirmed."
   ]
 }
