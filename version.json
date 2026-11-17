@@ -1,24 +1,19 @@
 {
   "name": "Bee Yard Wingman",
-  "version": "2026.11.10.0212",
+  "version": "2026.11.17.1244",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "Set up or join your club right from the welcome screen.  Club forms keep your draft on this phone, show a problem right beside the box, and explain who can be given a role.",
-    "When you add someone to the member list, Paid up starts unticked.  Tick it only when they've paid.",
-    "Bringing in a member list from Excel shows each row's number from the sheet and sorts people into new, updated, unchanged and left out.  Dates stay the day written in the sheet.",
-    "When you reuse a saved import setup, check the name column.  If names are written Last, First, tick whether to turn them round.",
-    "Pick a time from the list or type your own.  Your club's meeting day is kept on this phone for now.",
-    "Home puts Inspect a hive, My hives and today's to-dos up front. Find Settings, Getting started and other tools in More.",
-    "Try the colorful honeycomb Home with New Home (try it) in Settings. It starts off. See all groups due work by yard.",
-    "Bigger, clearer tile pictures on Home",
-    "If you dismiss the microphone prompt, Talk switches off and tells you Wingman needs the microphone. You can still type.",
-    "Let Buddy finish the question and wait until the screen says Listening before answering.  If you hear a beep, let it finish too.  An answer started too soon can be missed.",
-    "Say \"nothing\" when Buddy asks what needs doing next time. Any task you already entered stays in place. \"Bring gloves\" stays in the notes.",
-    "Buddy keeps the bee sample size you say with a mite count, asks again after an off-topic queen answer, and checks which hive you meant before a split.",
-    "In a long hive, Buddy repeats the brood-frame count before asking how much brood you saw. When you say you put in a new marked queen in a cage, review how she'll be released before setting her checks.",
-    "Settings has shorter explanations, fuller help under ?, and search that finds switches by name.",
-    "If you're signed out, Wingman can offer a backup after your third saved inspection. Canceling a restore keeps your photos and recordings.",
-    "Care and My club tabs open at the top. Club role confirmations show what the club has on record, or say if it couldn't be confirmed."
+    "Club officers can set the meeting day in My club.  Members can see it there.  If you can see member names, you can turn on Email me when people join.",
+    "After saving a hive, open it right away or tap Add another hive.  You can copy the box setup from another hive in the same yard.",
+    "Feed this yard opens the feeding form for the whole yard.  The club Feeding chart is available to download.",
+    "A new split starts with today's date.  The mite section can take you straight to an unanswered queen question.",
+    "Wingman keeps the form open and shows an error if it can't save a hive because storage is full.",
+    "Buddy keeps the number you say after the mite test name.  The earpiece Try it preview releases its audio route when you close it.",
+    "Clubs can have up to six officers, including up to two admins.  Inspections have updated Drone Brood and Capped Brood icons.",
+    "Sharing word fixes shows the list first.  Untick any words you want to keep private.  Only the words are sent.",
+    "Turning Testing logs on or off leaves word learning as you set it.  If learning was off, you can turn Learn from my corrections back on in Settings > Helping Wingman hear you.",
+    "Honeycomb Home opens by default.  To use old Home, turn off New Home (try it) in Settings.  Android Back closes its Inspect, Yards and Needs you today boxes.",
+    "Problem report emails name any file Wingman couldn't attach.  Buddy has new recorded lines for queen questions and voice help."
   ]
 }
