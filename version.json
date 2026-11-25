@@ -1,19 +1,12 @@
 {
   "name": "Bee Yard Wingman",
-  "version": "2026.11.17.1244",
+  "version": "2026.11.25.1251",
   "apk": "https://github.com/PaPaASOT/bee-guy-apiary/releases/download/app/BeeGuyApiary.apk",
   "web": "https://papaasot.github.io/bee-guy-apiary/",
   "notes": [
-    "Club officers can set the meeting day in My club.  Members can see it there.  If you can see member names, you can turn on Email me when people join.",
-    "After saving a hive, open it right away or tap Add another hive.  You can copy the box setup from another hive in the same yard.",
-    "Feed this yard opens the feeding form for the whole yard.  The club Feeding chart is available to download.",
-    "A new split starts with today's date.  The mite section can take you straight to an unanswered queen question.",
-    "Wingman keeps the form open and shows an error if it can't save a hive because storage is full.",
-    "Buddy keeps the number you say after the mite test name.  The earpiece Try it preview releases its audio route when you close it.",
-    "Clubs can have up to six officers, including up to two admins.  Inspections have updated Drone Brood and Capped Brood icons.",
-    "Sharing word fixes shows the list first.  Untick any words you want to keep private.  Only the words are sent.",
-    "Turning Testing logs on or off leaves word learning as you set it.  If learning was off, you can turn Learn from my corrections back on in Settings > Helping Wingman hear you.",
-    "Honeycomb Home opens by default.  To use old Home, turn off New Home (try it) in Settings.  Android Back closes its Inspect, Yards and Needs you today boxes.",
-    "Problem report emails name any file Wingman couldn't attach.  Buddy has new recorded lines for queen questions and voice help."
+    "Signing in is easier.  If you leave Wingman to get the code from your email, it keeps your place when you come back so you can type the code.",
+    "If your email is on your club's member list, signing in takes you straight into the club.  If it isn't yet, Wingman says so and has a Check again button.",
+    "After you sign in, Club shows your club right away, without restarting the app.",
+    "My club has an events calendar.  Members can sign up for volunteer spots and get a reminder email.  A public link lets anyone see the events, or add them to a phone's calendar."
   ]
 }
